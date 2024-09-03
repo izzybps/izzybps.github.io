@@ -1,9 +1,9 @@
 ---
-title: "Astro Sphere"
+title: "izzy.my"
 description: "Portfolio and blog build with astro."
 date: "03/18/2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+demoURL: "https://izzy.my"
+repoURL: "https://github.com/izzybps/izzybps.github.io"
 ---
 
 ![Astro Sphere](/astro-sphere.jpg)

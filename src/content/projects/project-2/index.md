@@ -1,9 +1,9 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
+title: "IPS Brasil"
+description: "Website to show the results of a national social research conducted to better provide data on brazilian cities."
 date: "2024-03-26"
-demoURL: "https://astro-nano-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+demoURL: "https://ipsbrasil.org.br"
+repoURL: "https://github.com/izzybps/ips-brasil-frontend"
 ---
 
 ![Astro Nano](/astro-nano.png)
